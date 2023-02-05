@@ -9,4 +9,4 @@ The graph_analysis notebook performs various analyses on the graph representatio
 
 All tweets and pickles referenced in the notebooks have been removed for ethical reasons on this public repo. 
 
-The code in this repo is a collaborative effort between @transen and @Yudong-Fan.
+The code in this repo is a collaborative effort between @transen and [@Yudong-Fan](https://github.com/Yudong-Fan).
